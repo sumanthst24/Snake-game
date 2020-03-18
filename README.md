@@ -1,5 +1,5 @@
 # Snake-game
-It is basic snake game developed using py game module
+It is basic snake game developed using py game module in python
 
 
 Preview
